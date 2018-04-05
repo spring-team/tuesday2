@@ -1,6 +1,6 @@
 ---
 applications:
-- name: tuesday2
+- name: "tuesday2"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
